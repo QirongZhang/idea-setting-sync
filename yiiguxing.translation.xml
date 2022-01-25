@@ -1,0 +1,63 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="candidate" />
+      <item value="正确" />
+      <item value="兼容" />
+      <item value="check Address Proof" />
+      <item value="目标" />
+      <item value="proof" />
+      <item value="Certification" />
+      <item value="证明" />
+      <item value="mailing" />
+      <item value="citizenship" />
+      <item value="特别行政区" />
+      <item value="通讯" />
+      <item value="逻辑" />
+      <item value="delete Attachment Batch Logic" />
+      <item value="交集" />
+      <item value="不需要" />
+      <item value="Address" />
+      <item value="approve" />
+      <item value="Address Approve Controller" />
+      <item value="accurity" />
+      <item value="prohibited Flag" />
+      <item value="recent" />
+      <item value="z证明" />
+      <item value="匹配" />
+      <item value="赋值" />
+      <item value="Indicator" />
+      <item value="reaction" />
+      <item value="mark" />
+      <item value="mask" />
+      <item value="redundant " />
+      <item value="业务单号" />
+      <item value="fanout" />
+      <item value="Inquiry" />
+      <item value="倒排" />
+      <item value="reactive" />
+      <item value="collapse" />
+      <item value="collage" />
+      <item value="concat" />
+      <item value="issue Country" />
+      <item value="Manual Approve" />
+      <item value="Loan" />
+      <item value="Accuity" />
+      <item value="dispatch redesign" />
+      <item value="provider" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
+        <entry key="CORSICAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1642840946712" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
