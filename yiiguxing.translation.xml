@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="原来" />
       <item value="build" />
       <item value="构建" />
       <item value="ops operation" />
@@ -53,12 +54,11 @@
       <item value="Manual Approve" />
       <item value="Loan" />
       <item value="Accuity" />
-      <item value="dispatch redesign" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="71" />
         <entry key="CORSICAN" value="1" />
       </map>
     </option>
