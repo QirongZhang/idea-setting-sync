@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Create an instance of HttpUpgradeHandler for an given class and uses it for the http protocol upgrade processing." />
       <item value="Callback after completion of request processing, that is, after rendering the view. Will be called on any outcome of handler execution, thus allows for proper resource cleanup. Note: Will only be called if this interceptor's preHandle method has successfully completed and returned true! As with the postHandle method, the method will be invoked on each interceptor in the chain in reverse order, so the first interceptor will be the last to be invoked. Note: special considerations apply for asynchronous request processing. For more details see AsyncHandlerInterceptor. 形参: request – current HTTP request response – current HTTP response handler – handler (or HandlerMethod) that started asynchronous execution, for type andor instance examination ex – exception thrown on handler execution, if any 抛出: Exception – in case of errors" />
       <item value="ext" />
       <item value="原来" />
@@ -53,12 +54,11 @@
       <item value="collage" />
       <item value="concat" />
       <item value="issue Country" />
-      <item value="Manual Approve" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="CORSICAN" value="1" />
       </map>
     </option>
