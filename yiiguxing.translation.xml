@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="销户&#10;" />
       <item value="Lombok requires enabled annotation processing: Do you want to enable annotation processors?" />
       <item value="Decode a given Json Web Token." />
       <item value="Decode a given Json Web Token. Note that this method doesn't verify the token's signature! Use it only if you trust the token or you already verified it. 形参: token – with jwt format as string. 返回值: a decoded JWT. 抛出: JWTDecodeException – if any part of the token contained an invalid jwt or JSON format of each of the jwt parts." />
@@ -53,12 +54,11 @@
       <item value="Inquiry" />
       <item value="倒排" />
       <item value="reactive" />
-      <item value="collapse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="84" />
         <entry key="CORSICAN" value="1" />
       </map>
     </option>
