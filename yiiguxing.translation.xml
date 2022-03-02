@@ -1,13 +1,25 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
-    <option name="newTranslationDialogX" value="815" />
-    <option name="newTranslationDialogY" value="450" />
+    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogX" value="134" />
+    <option name="newTranslationDialogY" value="653" />
     <histories>
+      <item value="reject Reason" />
+      <item value="reject Category" />
       <item value="risk Level" />
       <item value="risk Init Score" />
       <item value="risk Result" />
-      <item value="reject Category" />
+      <item value="submission Time" />
+      <item value="case Content" />
+      <item value="chinese Code Info" />
+      <item value="da Result Score" />
+      <item value="confirmed Customer Info" />
+      <item value="QA" />
+      <item value="直通" />
+      <item value="orig Customer Info" />
+      <item value="ocr Customer Info" />
+      <item value="confirmed Risk Level" />
+      <item value="risk Confirmed Score" />
       <item value="Business Process Result" />
       <item value="Plain" />
       <item value="Target host is not specified" />
@@ -42,23 +54,11 @@
       <item value="delete Attachment Batch Logic" />
       <item value="交集" />
       <item value="不需要" />
-      <item value="Address" />
-      <item value="approve" />
-      <item value="Address Approve Controller" />
-      <item value="accurity" />
-      <item value="prohibited Flag" />
-      <item value="recent" />
-      <item value="z证明" />
-      <item value="匹配" />
-      <item value="赋值" />
-      <item value="Indicator" />
-      <item value="reaction" />
-      <item value="mark" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="118" />
         <entry key="CORSICAN" value="1" />
       </map>
     </option>
