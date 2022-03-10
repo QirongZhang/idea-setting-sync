@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="134" />
     <option name="newTranslationDialogY" value="653" />
     <histories>
+      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'approveController': Unsatisfied dependency expressed through field 'approveRabbitMQService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'approveRabbitMQService': Unsatisfied dependency expressed through field 'customerRiskService'; nested exception is org.springframework.beans.factory.BeanCurrentlyInCreationException: Error creating bean with name 'customerRiskServiceImpl': Bean with name 'customerRiskServiceImpl' has been injected into other beans" />
       <item value="reject Reason" />
       <item value="reject Category" />
       <item value="risk Level" />
@@ -53,12 +54,11 @@
       <item value="逻辑" />
       <item value="delete Attachment Batch Logic" />
       <item value="交集" />
-      <item value="不需要" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="119" />
         <entry key="CORSICAN" value="1" />
       </map>
     </option>
