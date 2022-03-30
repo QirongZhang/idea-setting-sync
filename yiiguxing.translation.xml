@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="266" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="laster" />
+      <item value="lasted" />
+      <item value="laste " />
+      <item value="最新" />
+      <item value="原来" />
+      <item value="account Cancellation Resp Page Info" />
       <item value="citizenship 1" />
       <item value="ARTIFICIAL QA LOAN" />
       <item value="ARTIFICIAL" />
@@ -48,17 +54,11 @@
       <item value="Create an instance of HttpUpgradeHandler for an given class and uses it for the http protocol upgrade processing." />
       <item value="Callback after completion of request processing, that is, after rendering the view. Will be called on any outcome of handler execution, thus allows for proper resource cleanup. Note: Will only be called if this interceptor's preHandle method has successfully completed and returned true! As with the postHandle method, the method will be invoked on each interceptor in the chain in reverse order, so the first interceptor will be the last to be invoked. Note: special considerations apply for asynchronous request processing. For more details see AsyncHandlerInterceptor. 形参: request – current HTTP request response – current HTTP response handler – handler (or HandlerMethod) that started asynchronous execution, for type andor instance examination ex – exception thrown on handler execution, if any 抛出: Exception – in case of errors" />
       <item value="ext" />
-      <item value="原来" />
-      <item value="build" />
-      <item value="构建" />
-      <item value="ops operation" />
-      <item value="业务&#10;" />
-      <item value="person" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="169" />
+        <entry key="ENGLISH" value="171" />
         <entry key="CORSICAN" value="1" />
       </map>
     </option>
