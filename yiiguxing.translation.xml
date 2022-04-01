@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="266" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="支票" />
+      <item value="DORMANT" />
+      <item value="TOTAL CREDITS BLOCKED" />
       <item value="运行" />
       <item value="执行" />
       <item value="附加&#10;" />
@@ -51,14 +54,11 @@
       <item value="risk Confirmed Score" />
       <item value="Business Process Result" />
       <item value="Plain" />
-      <item value="Target host is not specified" />
-      <item value="销户&#10;" />
-      <item value="Lombok requires enabled annotation processing: Do you want to enable annotation processors?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="200" />
+        <entry key="ENGLISH" value="202" />
         <entry key="CORSICAN" value="1" />
       </map>
     </option>
