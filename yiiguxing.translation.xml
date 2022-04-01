@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="266" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="Interceptor" />
       <item value="char" />
       <item value="支票" />
       <item value="DORMANT" />
@@ -53,12 +54,11 @@
       <item value="ocr Customer Info" />
       <item value="confirmed Risk Level" />
       <item value="risk Confirmed Score" />
-      <item value="Business Process Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="201" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="203" />
         <entry key="CORSICAN" value="1" />
         <entry key="HINDI" value="1" />
       </map>
