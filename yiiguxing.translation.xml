@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="266" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="Assessment" />
       <item value="配置" />
       <item value="prohibited Flag" />
       <item value="response" />
@@ -53,12 +54,11 @@
       <item value="risk Level" />
       <item value="risk Init Score" />
       <item value="risk Result" />
-      <item value="submission Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="242" />
-        <entry key="ENGLISH" value="243" />
+        <entry key="CHINESE" value="243" />
+        <entry key="ENGLISH" value="244" />
         <entry key="CORSICAN" value="1" />
         <entry key="HINDI" value="1" />
       </map>
