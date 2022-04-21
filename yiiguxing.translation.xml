@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="266" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="No qualifying bean of type 'com.zatech.bank.framework.web.helper.RequestDataBuilder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="Assessment" />
       <item value="配置" />
       <item value="prohibited Flag" />
@@ -53,12 +54,11 @@
       <item value="reject Category" />
       <item value="risk Level" />
       <item value="risk Init Score" />
-      <item value="risk Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="243" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="245" />
         <entry key="CORSICAN" value="1" />
         <entry key="HINDI" value="1" />
       </map>
