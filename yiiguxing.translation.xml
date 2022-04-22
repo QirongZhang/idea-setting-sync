@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="266" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="The name of the resource that the reference points to. It can link to any compatible resource using the global JNDI names." />
+      <item value="The name of the resource that the reference points to. It can link to any compatible resource using the global JNDI names. 自: Common Annotations 1.1" />
+      <item value="The Resource annotation marks a resource that is needed by the application. This annotation may be applied to an application component class, or to fields or methods of the component class. When the annotation is applied to a field or method, the container will inject an instance of the requested resource into the application component when the component is initialized. If the annotation is applied to the component class, the annotation declares a resource that the application will look up at runtime. Even though this annotation is not marked Inherited, deployment tools are required to examine all superclasses of any component class to discover all uses of this annotation in all superclasses. All such annotation instances specify resources that are needed by the application component. Note that this annotation may appear on private fields and methods of superclasses; the container is required to perform injection in these cases as well." />
+      <item value="Resource" />
       <item value="No qualifying bean of type 'com.zatech.bank.framework.web.helper.RequestDataBuilder' available" />
       <item value="No qualifying bean of type" />
       <item value="No qualifying bean of type 'com.zatech.bank.framework.web.helper.RequestDataBuilder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
@@ -50,15 +54,11 @@
       <item value="issue Country" />
       <item value="CITIZENSHIP" />
       <item value="nationality" />
-      <item value="Helper" />
-      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'approveController': Unsatisfied dependency expressed through field 'approveRabbitMQService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'approveRabbitMQService': Unsatisfied dependency expressed through field 'customerRiskService'; nested exception is org.springframework.beans.factory.BeanCurrentlyInCreationException: Error creating bean with name 'customerRiskServiceImpl': Bean with name 'customerRiskServiceImpl' has been injected into other beans" />
-      <item value="reject Reason" />
-      <item value="reject Category" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="246" />
-        <entry key="ENGLISH" value="247" />
+        <entry key="CHINESE" value="249" />
+        <entry key="ENGLISH" value="251" />
         <entry key="CORSICAN" value="1" />
         <entry key="HINDI" value="1" />
       </map>
