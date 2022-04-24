@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="266" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="account Transaction History" />
       <item value="Caused by: java.net.UnknownHostException: zabank-dcs-core-service.bank-dev.svc.za" />
       <item value="Singleton bean creation not allowed while singletons of this factory are in destruction" />
       <item value="Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file" />
@@ -53,12 +54,11 @@
       <item value="start Assess Risk" />
       <item value="Assess" />
       <item value="业务" />
-      <item value="y" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="253" />
+        <entry key="ENGLISH" value="255" />
         <entry key="CORSICAN" value="1" />
         <entry key="HINDI" value="1" />
       </map>
