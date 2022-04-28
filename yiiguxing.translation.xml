@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="266" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="LIST SORTFLAG desc" />
       <item value="Inquire" />
       <item value="Could not resolve placeholder" />
       <item value="干净" />
@@ -53,7 +54,6 @@
       <item value="赋值&#10;" />
       <item value="queryReq.setEmailLikeType(LikeQueryEnum.getLikeType(queryReq.getEmail())); queryReq.setMobileLikeType(LikeQueryEnum.getLikeType(queryReq.getMobile())); queryReq.setIdNoLikeType(LikeQueryEnum.getLikeType(queryReq.getIdNo())); queryReq.setCustomerNameLikeType(LikeQueryEnum.getLikeType(queryReq.getCustomerName())); 去除 mobile、email、idNo 首尾 queryReq.setEmail(MaskUtils.deletePreAndSufStr(queryReq.getEmail())); queryReq.setMobile(MaskUtils.deletePreAndSufStr(queryReq.getMobile())); queryReq.setIdNo(MaskUtils.deletePreAndSufStr(queryReq.getIdNo())); queryReq.setCustomerName(MaskUtils.deletePreAndSufStr(queryReq.getCustomerName()));" />
       <item value="Asset" />
-      <item value="transaction Level" />
     </histories>
     <option name="languageScores">
       <map>
