@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="266" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="SUPPORT push Anti Fraud alone VERSION" />
+      <item value="push Anti Fraud" />
+      <item value="Fraud" />
+      <item value="Anti" />
       <item value="SUPPORT CHINESE WIFI VERSION" />
       <item value="Push Anti Fraud" />
       <item value="Union Pay Factor Verify" />
@@ -50,15 +54,11 @@
       <item value="fu" />
       <item value="laster" />
       <item value="lasted" />
-      <item value="laste " />
-      <item value="最新" />
-      <item value="原来" />
-      <item value="account Cancellation Resp Page Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="277" />
-        <entry key="ENGLISH" value="278" />
+        <entry key="CHINESE" value="282" />
+        <entry key="ENGLISH" value="283" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="HINDI" value="1" />
