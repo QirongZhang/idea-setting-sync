@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="266" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="COUNTRY" />
       <item value="Lasted" />
       <item value="OPERATOR" />
       <item value="extract" />
@@ -53,12 +54,11 @@
       <item value="Could not extract response: no suitable HttpMessageConverter found for response type [com.zatech.bank.framework.model.ResponseData&lt;java.lang.Void&gt;] and content type [textplain;charset=utf-8]" />
       <item value="原始" />
       <item value="previous" />
-      <item value="previous Resp Body" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="296" />
-        <entry key="ENGLISH" value="297" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="298" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="HINDI" value="1" />
