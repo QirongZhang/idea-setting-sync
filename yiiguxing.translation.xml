@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="266" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="AUDIT" />
+      <item value="DORMANT" />
       <item value="deceased" />
       <item value="is Inner Staff" />
       <item value="xxl-job jobhandler naming conflicts." />
@@ -52,13 +54,11 @@
       <item value="配置" />
       <item value="prohibited Flag" />
       <item value="response" />
-      <item value="existed" />
-      <item value="Please supply original non-instrumented classes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="301" />
-        <entry key="ENGLISH" value="302" />
+        <entry key="CHINESE" value="303" />
+        <entry key="ENGLISH" value="304" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="HINDI" value="1" />
