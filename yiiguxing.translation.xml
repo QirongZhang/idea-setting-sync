@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="266" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="Access is denied (user is anonymous); redirecting to authentication entry point" />
       <item value="Compose" />
       <item value="MODIFY" />
       <item value="Auth" />
@@ -53,12 +54,11 @@
       <item value="Singleton bean creation not allowed while singletons of this factory are in destruction" />
       <item value="Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file" />
       <item value="The name of the resource that the reference points to. It can link to any compatible resource using the global JNDI names." />
-      <item value="The name of the resource that the reference points to. It can link to any compatible resource using the global JNDI names. 自: Common Annotations 1.1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="312" />
-        <entry key="ENGLISH" value="313" />
+        <entry key="CHINESE" value="313" />
+        <entry key="ENGLISH" value="314" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="HINDI" value="1" />
