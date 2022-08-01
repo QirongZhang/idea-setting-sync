@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="266" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="maturity Date" />
       <item value="Petition" />
       <item value="An Authentication object was not found in the SecurityContext" />
       <item value="compose" />
@@ -53,12 +54,11 @@
       <item value="Could not resolve placeholder" />
       <item value="干净" />
       <item value="account Transaction History" />
-      <item value="Caused by: java.net.UnknownHostException: zabank-dcs-core-service.bank-dev.svc.za" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="317" />
-        <entry key="ENGLISH" value="318" />
+        <entry key="CHINESE" value="318" />
+        <entry key="ENGLISH" value="319" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="HINDI" value="1" />
