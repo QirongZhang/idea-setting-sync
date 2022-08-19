@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="266" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="RECURSIVE" />
+      <item value="set Recursive" />
       <item value="Failed to execute goal on project za-bank-ekyc-share: Could not resolve dependencies for project com.zatech:za-bank-ekyc-share:jar:1.0.23-SNAPSHOT: com.zatech:za-bank-ekyc-common:jar:1.0.23-SNAPSHOT was not found in http:maven.aliyun.comnexuscontentgroupspublic during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of alimaven has elapsed or updates are forced -&gt; [Help 1] [ERROR] [ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch. [ERROR] Re-run Maven using the -X switch to enable full debug logging. [ERROR] [ERROR] For more information about the errors and possible solutions, please read the following articles: [ERROR] [Help 1] http:cwiki.apache.orgconfluencedisplayMAVENDependencyResolutionException" />
       <item value="To see the full stack trace of the errors, re-run Maven with the -e switch." />
       <item value="maturity Date" />
@@ -52,13 +54,11 @@
       <item value="Scene Type" />
       <item value="permit" />
       <item value="LIST SORTFLAG desc" />
-      <item value="Inquire" />
-      <item value="Could not resolve placeholder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="320" />
-        <entry key="ENGLISH" value="321" />
+        <entry key="CHINESE" value="322" />
+        <entry key="ENGLISH" value="323" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="HINDI" value="1" />
