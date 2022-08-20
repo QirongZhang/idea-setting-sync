@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="266" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="Is there an unresolvable circular reference?" />
       <item value="Pivot" />
       <item value="use Brackets" />
       <item value="RECURSIVE" />
@@ -53,12 +54,11 @@
       <item value="Union Pay Factor Verify" />
       <item value="Geo Address" />
       <item value="Antifraud" />
-      <item value="Scene Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="324" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="CHINESE" value="325" />
+        <entry key="ENGLISH" value="326" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="HINDI" value="1" />
