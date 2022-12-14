@@ -34,6 +34,10 @@
           <option name="url" value="http://gitlab.in.za/zabank/uni/zabank-uni-coreuser-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.in.za/kyc/zabank-kyc-core-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Workspace\Http" />
