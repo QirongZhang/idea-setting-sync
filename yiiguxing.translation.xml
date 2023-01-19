@@ -74,4 +74,9 @@
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1674025919801" />
   </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="Source and expression are both defined in @Mapping, either define a source or an expression." />
+    </histories>
+  </component>
 </application>
