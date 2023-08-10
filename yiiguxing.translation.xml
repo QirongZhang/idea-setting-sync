@@ -75,6 +75,9 @@
     <option name="lastTrimTime" value="1691640078715" />
   </component>
   <component name="Translation.Settings">
+    <option name="autoReplace" value="true" />
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translateDocumentation" value="true" />
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
